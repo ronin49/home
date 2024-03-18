@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/oleg/2024-03-17%2023-47-55.mkv" added="2024-03-17T21:55:06.947480Z" modified="2024-03-17T21:55:06.965705Z" visited="2024-03-17T21:55:06.947482Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/x-matroska"/>
+        <bookmark:applications>
+          <bookmark:application name="snap.firefox" exec="&apos;gio open %u&apos;" modified="2024-03-17T21:55:06.947486Z" count="1"/>
+          <bookmark:application name="xdg-desktop-portal-gnome" exec="&apos;xdg-desktop-portal-gnome %u&apos;" modified="2024-03-17T21:55:06.965703Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/oleg/2024-03-17%2023-57-09.mkv" added="2024-03-17T23:01:07.161791Z" modified="2024-03-17T23:01:07.199265Z" visited="2024-03-17T23:01:07.161792Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/x-matroska"/>
+        <bookmark:applications>
+          <bookmark:application name="snap.firefox" exec="&apos;gio open %u&apos;" modified="2024-03-17T23:01:07.161793Z" count="1"/>
+          <bookmark:application name="xdg-desktop-portal-gnome" exec="&apos;xdg-desktop-portal-gnome %u&apos;" modified="2024-03-17T23:01:07.199262Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/oleg/output.mkv" added="2024-03-17T23:26:33.587088Z" modified="2024-03-17T23:26:33.608997Z" visited="2024-03-17T23:26:33.587089Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/x-matroska"/>
+        <bookmark:applications>
+          <bookmark:application name="snap.firefox" exec="&apos;gio open %u&apos;" modified="2024-03-17T23:26:33.587090Z" count="1"/>
+          <bookmark:application name="xdg-desktop-portal-gnome" exec="&apos;xdg-desktop-portal-gnome %u&apos;" modified="2024-03-17T23:26:33.608994Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/oleg/Pictures/Screenshots/Screenshot%20from%202024-03-18%2007-08-18.png" added="2024-03-18T05:08:18.292515Z" modified="2024-03-18T05:08:18.292519Z" visited="2024-03-18T05:08:18.292516Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gnome-shell %u&apos;" modified="2024-03-18T05:08:18.292517Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/oleg/Pictures/Screenshots/Screenshot%20from%202024-03-18%2007-15-31.png" added="2024-03-18T05:15:31.631972Z" modified="2024-03-18T05:15:31.631976Z" visited="2024-03-18T05:15:31.631973Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gnome-shell %u&apos;" modified="2024-03-18T05:15:31.631974Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/oleg/.xdp-C++.Primer.5th.Edition_2013.pdf-08J8Is" added="2024-03-18T05:31:39.030489Z" modified="2024-03-18T05:47:42.730628Z" visited="2024-03-18T05:31:39.030489Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Document Viewer" exec="&apos;evince %u&apos;" modified="2024-03-18T05:47:42.730627Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/oleg/Downloads/zathura-0.5.4.tar.xz" added="2024-03-18T05:43:10.453340Z" modified="2024-03-18T05:43:10.858424Z" visited="2024-03-18T05:43:10.453341Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-xz-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;file-roller %U&apos;" modified="2024-03-18T05:43:10.453343Z" count="1"/>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2024-03-18T05:43:10.858423Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/oleg/Downloads" added="2024-03-18T05:43:14.665510Z" modified="2024-03-18T05:43:14.665513Z" visited="2024-03-18T05:43:14.665511Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Archive Manager" exec="&apos;file-roller %u&apos;" modified="2024-03-18T05:43:14.665511Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>
